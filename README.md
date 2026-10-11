@@ -38,6 +38,7 @@ Ejecuté cinco simulaciones cubriendo distintas técnicas de MITRE ATT&CK, inves
 PowerShell codificado detectado.
 
 ![Detalle T1059.001](images/04-detalle-t1059-mitre.png)
+
 Mapeo MITRE para T1059.001.
 
 **2. Persistencia por clave Run — T1547.001.** Detectado — regla 92302, nivel 6.
